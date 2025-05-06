@@ -1,4 +1,4 @@
-# DO YOU LOVE ME?
+# စိတ်ဆိုးပြေပါ‌တော့နော်ကိုကို:(
 
 Hello! This is a a project I created just for fun. This project is not perfect since Iam learning more about HTML, CSS, and JavaScript, so I would appreciate it if you give me some feedbacks! Have fun!;)
 
